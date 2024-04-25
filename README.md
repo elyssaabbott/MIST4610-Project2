@@ -1,5 +1,5 @@
-# MIST4610-Project2
 
+# MIST 4610 Project 2
 
 20244 Group 3
 
@@ -11,6 +11,10 @@
 
 ## Data Description
 
+ The data we are working with is the NYPD arrest data from 2023. The data was obtained from data.gov (https://catalog.data.gov/dataset) and the specific dataset can be found here (https://catalog.data.gov/dataset/nypd-arrest-data-year-to-date). We decided to go to the publisher’s website and collect more data as our dataset was not complex enough for our analysis, Therefore, our dataset consists of 712,075 rows of data and 24 columns describing the number of arrests and other information related to these arrests from January 1st, 2020, to December 31st, 2023. Every time an arrest is made, it is added to this dataset so that it can be reviewed by the Office of Management Analysis and Planning every quarter. The data recorded includes information about the date of the arrest, a description of the reasoning for arrest, where the arrest was made, and the perpetrator’s race, sex, and age group.
+
+The arrest key is the dataset’s primary key. Every time an arrest is recorded, it is given its own unique identifying arrest key. The next column is the arrest date which is in the date-month-year format. PD CD is the next column, and after researching, we believe this is the police department communications division. This column has an int data type. There are also police descriptions and offense descriptions in the data. Police descriptions are a little more specific than offense descriptions as offense descriptions is the category that police descriptions fall under. Both of these columns have varchar data types. Other related columns are the KY CD, law code, and law category CD. The KY CD column most likely refers to the code entered for the PD description, and the law code and law category CD most likely refer to the offense description. KY CD has an int data type, law code has a varchar data type, and law category CD has a varchar data type. The next columns are arrest borough, arrest precinct, and jurisdiction code. Essentially, these columns are describing which of the five New York boroughs the arrest was made, in what precinct, and with what jurisdiction code. They have a varchar, int, and int data type respectively. The following three columns are characteristics of the person that was arrested including the age group, sex, and race, and all three columns have varchar data types. The next columns describe the exact location where the arrest was made. X coordination, y coordination, latitude, and longitude. X and y coordinates are int data types, while latitude and longitude are decimal data types. Longitude Latitude is the next column with a varchar data type that combines the longitude and latitude points in the previous columns. Following this column are the Zip Codes, Community Districts, Borough Boundaries, City Council Districts, and Police Precincts. The column Zip Codes has a varchar data type while the remaining columns have int data types and also describe the location of the arrest.
+The dataset is appropriately and sufficiently complex because it includes multiple years of relevant data. With this data we are able to forecast future arrest trends and determine which age groups are the most prevalent in arrests. When it comes to variance in the data, our dataset has a low variance because the data does not deviate much from the mean. This demonstrates a more uniform and consistent pattern making it easier to draw conclusions about arrests and identify patterns in the data.
 
 ## Questions and Importance
 
@@ -28,5 +32,5 @@ Importance: To enhance our data analysis, we narrowed our focus to the age group
 In order to ensure understanding of our data visualizations, a calculated field was created to translate the codes for the boroughs into the full names of them. This way when looking at the line chart, it can be easily understood which borough is which line. We also filtered by month and used the color feature to distinguish the boroughs, as well. Additionally, the team chose to forecast the data to identify potential trends in the future.   
 
 ## Analysis and Results
-## Tableau Packaged Workbook
+## Tableau Packaged Workbook and Visualizations
 
