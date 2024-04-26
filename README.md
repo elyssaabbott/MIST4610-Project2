@@ -6,7 +6,7 @@
 1. Elyssa Abbott @elyssaabbott
 2. Nicolle Serafin @nikkiserafin
 3. Shubhangi Khanna @shubbykhanna
-4. Jay Dumon @JayDumon(https://github.com/JayDumon/MIST4610-Project2)
+4. Jay Dumon [@JayDumon](https://github.com/JayDumon/MIST4610-Project2)
 5. Ryan Cullen @javaprogrammer2023
 6. Shriya Tummalapalli @shriyatummalapalli
 
