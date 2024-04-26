@@ -34,6 +34,32 @@ Importance: To enhance our data analysis, we narrowed our focus to the age group
 In order to ensure understanding of our data visualizations, a calculated field was created to translate the codes for the boroughs into the full names of them. This way when looking at the line chart, it can be easily understood which borough is which line. We also filtered by month and used the color feature to distinguish the boroughs, as well. Additionally, the team chose to forecast the data to identify potential trends in the future.   
 
 ## Analysis and Results
+
+UNDER 18 OFFENSE DESCRIPTIONS:
+
+For this age group (under 18), the number of offenses committed (across all categories) is the second lowest compared to the rest of the age groups. In addition, the category with the highest offenses is “robbery”. This differs from the rest of the age groups, where the other age groups have “assault” as the category with the leading number of offenses.
+
+18-24 OFFENSE DESCRIPTIONS:
+
+The overall volume of arrests for this age group (18-24) is much higher than for the under 18 age group. Both age brackets share the same top four offense categories. However, for the 18-24 age group, we see assault and felony assault leading the way, setting a trend for the rest of the age groups.
+
+25-44 OFFENSE DESCRIPTIONS: 
+
+Similar to the other age groups, the highest categories are assault, both misdemeanor and felony. However, there is a significant difference in the counts of multiple of the top offense description categories by the thousands; the top categories have the highest number of arrests by far, with over 53,000 arrests for misdemeanor assault alone, compared to the highest category from all other age groups being less than 18,000.
+
+45-64 OFFENSE DESCRIPTIONS:
+
+Similar to the two age brackets, assault is the leading category for offenses. However, the number of offenses committed in this category decreased by about 66%. To clarify, in the 25-44 age bracket, there were a little over 53,000 offenses. However, in the next age bracket (45-55), there were around 17,000 offenses. This trend seems to continue for other offense categories. 
+
+65+ OFFENSE DESCRIPTIONS:
+
+Overall, this age bracket (65+) had the lowest amount of offenses per category, compared to the remaining age brackets. Similar to the previous age groups, assault was the leading offense category. Some of the age brackets had the same top four offense categories, and this last age group seems to continue that trend.
+
+FORECAST DESCRIPTION:
+
+In this graph, we captured the number of arrests per borough for ages 25-44 from January 2021 to December 2023, with a forecast for January 2024 to June 2024. All 5 boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) have some fluctuation with the number of arrests per month, which is showcased in the graph. Staten Island starkly has the lowest number of arrests compared to the other boroughs. However, the forecast seems to increase the number of arrests, which seems to be true for all boroughs. The Bronx seems to have the highest arrests, followed by Brooklyn, Manhattan, Queens, and then Staten Island. It’s interesting to see the forecast also fluctuating with the arrest count.
+
+
 ##  Tableau Packaged Workbook
 
 Link: https://outlookuga-my.sharepoint.com/:u:/r/personal/eaa26824_uga_edu/Documents/Project2%20(3).twbx?csf=1&web=1&e=IAJfiw
