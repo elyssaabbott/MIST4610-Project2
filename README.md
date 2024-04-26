@@ -8,6 +8,7 @@
 3. Shubhangi Khanna @shubbykhanna
 4. Jay Dumon @JayDumon
 5. Ryan Cullen @javaprogrammer2023
+6. Shriya Tummalapalli @shriyatummalapalli
 
 ## Data Description
 
