@@ -3,7 +3,7 @@
 
 20244 Group 3
 
-1. Elyssa Abbott @elyssaabbott
+1. Elyssa Abbott [@elyssaabbott](https://github.com/elyssaabbott/MIST4610-Project2)
 2. Nicolle Serafin [@nikkiserafin](https://github.com/nikkiserafin/MIST4610-Project2)
 3. Shubhangi Khanna [@shubbykhanna](https://github.com/shubbykhanna/MIST4610-Project2)
 4. Jay Dumon [@JayDumon](https://github.com/JayDumon/MIST4610-Project2)
