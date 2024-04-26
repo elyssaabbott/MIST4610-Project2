@@ -8,7 +8,7 @@
 3. Shubhangi Khanna [@shubbykhanna](https://github.com/shubbykhanna/MIST4610-Project2)
 4. Jay Dumon [@JayDumon](https://github.com/JayDumon/MIST4610-Project2)
 5. Ryan Cullen @javaprogrammer2023
-6. Shriya Tummalapalli @shriyatummalapalli
+6. Shriya Tummalapalli [@shriyatummalapalli](https://github.com/shriyatummalapalli/MIST4610-Project2)
 
 ## Data Description
 
