@@ -3,12 +3,12 @@
 
 20244 Group 3
 
-1. Elyssa Abbott [@elyssaabbott](https://github.com/elyssaabbott/MIST4610-Project2)
-2. Nicolle Serafin [@nikkiserafin](https://github.com/nikkiserafin/MIST4610-Project2)
-3. Shubhangi Khanna [@shubbykhanna](https://github.com/shubbykhanna/MIST4610-Project2)
-4. Jay Dumon [@JayDumon](https://github.com/JayDumon/MIST4610-Project2)
+1. Elyssa Abbott @elyssaabbott
+2. Nicolle Serafin @nikkiserafin
+3. Shubhangi Khanna @shubbykhanna
+4. Jay Dumon @JayDumon
 5. Ryan Cullen @javaprogrammer2023
-6. Shriya Tummalapalli [@shriyatummalapalli](https://github.com/shriyatummalapalli/MIST4610-Project2)
+6. Shriya Tummalapalli @shriyatummalapalli
 
 ## Data Description
 
@@ -63,4 +63,4 @@ In this graph, we captured the number of arrests per borough for ages 25-44 from
 
 ##  Tableau Packaged Workbook
 
-Link: https://outlookuga-my.sharepoint.com/:u:/r/personal/eaa26824_uga_edu/Documents/Project2%20(3).twbx?csf=1&web=1&e=IAJfiw
+Link: https://outlookuga-my.sharepoint.com/:u:/g/personal/eaa26824_uga_edu/ERIgBZkBZVlNqp5wqgMO0VoBaWsGSigX0pP_vhqN8m9gcQ?e=1NbP5k
