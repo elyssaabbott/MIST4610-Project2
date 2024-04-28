@@ -7,7 +7,7 @@
 2. Nicolle Serafin @nikkiserafin
 3. Shubhangi Khanna @shubbykhanna
 4. Jay Dumon @JayDumon
-5. Ryan Cullen @javaprogrammer2023
+5. Ryan Cullen [@javaprogrammer2023](https://github.com/Javaprogrammer2023/MIST4610-Project2)
 6. Shriya Tummalapalli @shriyatummalapalli
 
 ## Data Description
